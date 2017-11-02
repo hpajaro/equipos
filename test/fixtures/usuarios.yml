@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  usuario: MyString
+  password: MyString
+  idRol: 1
+  idEstadoUsuario: 1
+
+two:
+  usuario: MyString
+  password: MyString
+  idRol: 1
+  idEstadoUsuario: 1
